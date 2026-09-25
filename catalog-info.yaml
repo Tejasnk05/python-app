@@ -6,6 +6,7 @@ metadata:
   
   annotations:
     github.com/project-slug: Tejasnk05/python-app
+    backstage.io/techdocs-ref: docs/index.md
 
 spec:
   type: service
