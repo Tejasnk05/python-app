@@ -10,4 +10,4 @@ plugins:
 # For sidebar navigation on https://backstage.io/, see `microsite/sidebars.js`
 nav:
   - Overview:
-      - Greetings?: 'docs\/index.md'
+      - Greetings?: 'docs/index.md'
