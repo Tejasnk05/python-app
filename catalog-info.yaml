@@ -9,7 +9,9 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     jira/project-key: JMS
     datadoghq.com/site: datadoghq.com
-    datadoghq.com/dashboard-url: https://p.datadoghq.com/sb/2ce3b6f5-c604-11f1-ae38-8e4609a6fa70-0be2fabf6a7d3e628b405edfaa2dcb99, https://p.datadoghq.com/58cb7b5da687f400fbbec9244fcac3e70c5e448f123febf4175c9248f2a1863b
+    datadoghq.com/dashboard-url: https://p.datadoghq.com/sb/2ce3b6f5-c604-11f1-ae38-8e4609a6fa70-0be2fabf6a7d3e628b405edfaa2dcb99
+    datadoghq.com/graph-token: 58cb7b5da687f400fbbec9244fcac3e70c5e448f123febf4175c9248f2a1863b
+    datadoghq.com/graph-size: medium
 
 spec:
   type: service
